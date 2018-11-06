@@ -24,13 +24,13 @@ public class RiverGenerator {
      * 实体类名
      * 建议仅需修改
      */
-    private static final String className = "River";
+    private static final String className = "Module";
 
     /**
      * 类说明描述
      * 建议仅需修改
      */
-    private static final String description = "测试";
+    private static final String description = "模块";
 
     /**
      * 作者名

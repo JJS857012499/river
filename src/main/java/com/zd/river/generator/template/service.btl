@@ -1,6 +1,6 @@
 package ${entity.servicePackage};
 
-import RiverBaseService;
+import com.zd.river.base.RiverBaseService;
 import ${entity.entityPackage}.${entity.className};
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

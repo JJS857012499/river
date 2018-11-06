@@ -1,6 +1,6 @@
 package ${entity.controllerPackage};
 
-import RiverBaseController;
+import com.zd.river.base.RiverBaseController;
 import PageUtil;
 import ResultUtil;
 import PageVo;

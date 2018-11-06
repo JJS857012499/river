@@ -1,6 +1,6 @@
 package ${entity.entityPackage};
 
-import RiverBaseEntity;
+import com.zd.river.base.RiverBaseEntity;
 import com.baomidou.mybatisplus.annotations.TableName;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
